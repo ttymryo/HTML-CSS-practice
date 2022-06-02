@@ -17,3 +17,6 @@ chapter6
   
 chapter7
   メイン部分を作ろう
+
+chapter8
+  サイドバー
