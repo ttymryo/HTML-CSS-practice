@@ -8,3 +8,12 @@ chapter3
   
 chapter4
   Webページの枠組みを作ろう
+  
+chapter5
+  ヘッダーとフッターを作ろう
+
+chapter6
+  メインビジュアルを作ろう
+  
+chapter7
+  メイン部分を作ろう
